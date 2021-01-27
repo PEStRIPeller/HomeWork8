@@ -1,0 +1,52 @@
+.gif{
+   
+    height: 250px;
+    width: 250px;
+}
+.img{
+    height: 2.5%;
+    width: 2.5%;
+}
+.heading {
+    width: 100%; 
+    background: #b8e3e8;
+    padding: 1%;
+    border: solid 1px black; 
+    float: none;
+}
+.text_center{
+    text-align: center;
+}
+.block_style{
+    width: 40%; 
+    background:#50C878;
+    padding: 0.5%;
+    border: solid 1px black; 
+    float: none;
+    color: white;
+}
+.game{
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.history{
+    margin-left: 58%;
+    margin-top: -10%;
+}
+.rules{
+    margin-left: 30%;
+    margin-top: 3.5%;
+}
+.background{
+    background-image: url(bg.jpg);
+}
+.left_ball{
+    margin-top: -11.5%;
+    margin-left: 0.2%;
+}
+.right_ball{
+    margin-top: -13.5%;
+    margin-left: 85%;
+}
+
+
